@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2613088794
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5513aa2760962c2a2028e7b405f1f156
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 5513aa2760962c2a2028e7b405f1f156
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ES_Gunshot Shotgun 161 - SFX Producer.mp3
+Dependencies: []
